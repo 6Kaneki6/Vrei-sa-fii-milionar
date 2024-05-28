@@ -1,0 +1,137 @@
+﻿[
+  {
+    "Text": "Care este capitala Frantei?",
+    "OptionA": "Madrid",
+    "OptionB": "Paris",
+    "OptionC": "Berlin",
+    "OptionD": "Roma",
+    "CorrectAnswer": "b",
+    "Difficulty": "easy"
+  },
+  {
+    "Text": "Ce planeta este cunoscuta drept Planeta Rosie?",
+    "OptionA": "Venus",
+    "OptionB": "Marte",
+    "OptionC": "Jupiter",
+    "OptionD": "Saturn",
+    "CorrectAnswer": "b",
+    "Difficulty": "easy"
+  },
+  {
+    "Text": "Cine a pictat Mona Lisa?",
+    "OptionA": "Vincent van Gogh",
+    "OptionB": "Pablo Picasso",
+    "OptionC": "Leonardo da Vinci",
+    "OptionD": "Claude Monet",
+    "CorrectAnswer": "c",
+    "Difficulty": "easy"
+  },
+  {
+    "Text": "Cat face 2 + 2?",
+    "OptionA": "3",
+    "OptionB": "4",
+    "OptionC": "5",
+    "OptionD": "6",
+    "CorrectAnswer": "b",
+    "Difficulty": "easy"
+  },
+  {
+    "Text": "Care este cel mai mare ocean al Pamantului?",
+    "OptionA": "Oceanul Atlantic",
+    "OptionB": "Oceanul Indian",
+    "OptionC": "Oceanul Arctic",
+    "OptionD": "Oceanul Pacific",
+    "CorrectAnswer": "d",
+    "Difficulty": "easy"
+  },
+  {
+    "Text": "In ce an a avut loc Revolutia Franceza?",
+    "OptionA": "1776",
+    "OptionB": "1789",
+    "OptionC": "1804",
+    "OptionD": "1815",
+    "CorrectAnswer": "b",
+    "Difficulty": "medium"
+  },
+  {
+    "Text": "Ce element chimic are simbolul 'O'?",
+    "OptionA": "Osmium",
+    "OptionB": "Oxigen",
+    "OptionC": "Or",
+    "OptionD": "Ozoniu",
+    "CorrectAnswer": "b",
+    "Difficulty": "medium"
+  },
+  {
+    "Text": "Cine a scris piesa de teatru 'Romeo si Julieta'?",
+    "OptionA": "Charles Dickens",
+    "OptionB": "Jane Austen",
+    "OptionC": "William Shakespeare",
+    "OptionD": "Mark Twain",
+    "CorrectAnswer": "c",
+    "Difficulty": "medium"
+  },
+  {
+    "Text": "Ce animal este simbolul national al Australiei?",
+    "OptionA": "Cangur",
+    "OptionB": "Koala",
+    "OptionC": "Emu",
+    "OptionD": "Wombat",
+    "CorrectAnswer": "a",
+    "Difficulty": "medium"
+  },
+  {
+    "Text": "Care este formula chimica a apei?",
+    "OptionA": "H2O",
+    "OptionB": "CO2",
+    "OptionC": "O2",
+    "OptionD": "NaCl",
+    "CorrectAnswer": "a",
+    "Difficulty": "medium"
+  },
+  {
+    "Text": "Care este cel mai mare desert din lume?",
+    "OptionA": "Sahara",
+    "OptionB": "Gobi",
+    "OptionC": "Desertul Arabiei",
+    "OptionD": "Antarctica",
+    "CorrectAnswer": "d",
+    "Difficulty": "hard"
+  },
+  {
+    "Text": "Care este capitala Islandei?",
+    "OptionA": "Oslo",
+    "OptionB": "Reykjavik",
+    "OptionC": "Copenhaga",
+    "OptionD": "Stockholm",
+    "CorrectAnswer": "b",
+    "Difficulty": "hard"
+  },
+  {
+    "Text": "In ce an a fost lansata prima misiune Apollo care a aterizat pe Luna?",
+    "OptionA": "1965",
+    "OptionB": "1967",
+    "OptionC": "1969",
+    "OptionD": "1971",
+    "CorrectAnswer": "c",
+    "Difficulty": "hard"
+  },
+  {
+    "Text": "Cine a compus Simfonia nr. 9?",
+    "OptionA": "Johann Sebastian Bach",
+    "OptionB": "Ludwig van Beethoven",
+    "OptionC": "Wolfgang Amadeus Mozart",
+    "OptionD": "Franz Schubert",
+    "CorrectAnswer": "b",
+    "Difficulty": "hard"
+  },
+  {
+    "Text": "Care este capitala Mongoliei?",
+    "OptionA": "Ulan Bator",
+    "OptionB": "Astana",
+    "OptionC": "Tashkent",
+    "OptionD": "Bishkek",
+    "CorrectAnswer": "a",
+    "Difficulty": "hard"
+  }
+]

@@ -1,0 +1,35 @@
+C:\Users\Kaneki\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Kaneki\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Kaneki\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Kaneki\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Kaneki\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kaneki\source\repos\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kaneki\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Kaneki\Desktop\Vrei sa fii milionar\obj\Debug\net8.0\ref\ConsoleApp1.dll

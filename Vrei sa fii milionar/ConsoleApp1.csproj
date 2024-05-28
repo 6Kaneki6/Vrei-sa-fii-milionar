@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\ConsoleApp1.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\ConsoleApp1.deps.json" />
+    <Content Include="bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json" />
+    <Content Include="bin\Debug\net8.0\questions.json" />
+    <Content Include="obj\ConsoleApp1.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net8.0\ConsoleApp1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\ConsoleApp1.dll" />
+    <None Include="bin\Debug\net8.0\ConsoleApp1.exe" />
+    <None Include="bin\Debug\net8.0\ConsoleApp1.pdb" />
+    <None Include="bin\Debug\net8.0\Newtonsoft.Json.dll" />
+    <None Include="obj\ConsoleApp1.csproj.nuget.g.props" />
+    <None Include="obj\ConsoleApp1.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net8.0\apphost.exe" />
+    <None Include="obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.assets.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.dll" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net8.0\ConsoleApp1.pdb" />
+    <None Include="obj\Debug\net8.0\refint\ConsoleApp1.dll" />
+    <None Include="obj\Debug\net8.0\ref\ConsoleApp1.dll" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

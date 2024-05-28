@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/POAqsf4vRWDc+tfA2lj1R466nU9C3Dx4gNDdrz6UyKV05rCQrqHYi/Xl6hTgeda38txXM2EmW5ONr1baSdQxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaneki\\Desktop\\Vrei sa fii milionar\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaneki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
